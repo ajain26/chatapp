@@ -1,0 +1,524 @@
+{
+    "languagelist":[
+  {
+  "Language": "Afrikaans",
+  "Code": "af",
+  "": ""
+  },
+  {
+  "Language": "Albanian",
+  "Code": "sq",
+  "": ""
+  },
+  {
+  "Language": "Amharic",
+  "Code": "am",
+  "": ""
+  },
+  {
+  "Language": "Arabic",
+  "Code": "ar",
+  "": ""
+  },
+  {
+  "Language": "Armenian",
+  "Code": "hy",
+  "": ""
+  },
+  {
+  "Language": "Azeerbaijani",
+  "Code": "az",
+  "": ""
+  },
+  {
+  "Language": "Basque",
+  "Code": "eu",
+  "": ""
+  },
+  {
+  "Language": "Belarusian",
+  "Code": "be",
+  "": ""
+  },
+  {
+  "Language": "Bengali",
+  "Code": "bn",
+  "": ""
+  },
+  {
+  "Language": "Bosnian",
+  "Code": "bs",
+  "": ""
+  },
+  {
+  "Language": "Bulgarian",
+  "Code": "bg",
+  "": ""
+  },
+  {
+  "Language": "Catalan",
+  "Code": "ca",
+  "": ""
+  },
+  {
+  "Language": "Cebuano",
+  "Code": "ceb (ISO-639-2)",
+  "": ""
+  },
+  {
+  "Language": "Chinese (Simplified)",
+  "Code": "zh-CN (BCP-47)",
+  "": ""
+  },
+  {
+  "Language": "Chinese (Traditional)",
+  "Code": "zh-TW (BCP-47)",
+  "": ""
+  },
+  {
+  "Language": "Corsican",
+  "Code": "co",
+  "": ""
+  },
+  {
+  "Language": "Croatian",
+  "Code": "hr",
+  "": ""
+  },
+  {
+  "Language": "Czech",
+  "Code": "cs",
+  "": ""
+  },
+  {
+  "Language": "Danish",
+  "Code": "da",
+  "": ""
+  },
+  {
+  "Language": "Dutch",
+  "Code": "nl",
+  "": ""
+  },
+  {
+  "Language": "English",
+  "Code": "en",
+  "": ""
+  },
+  {
+  "Language": "Esperanto",
+  "Code": "eo",
+  "": ""
+  },
+  {
+  "Language": "Estonian",
+  "Code": "et",
+  "": ""
+  },
+  {
+  "Language": "Finnish",
+  "Code": "fi",
+  "": ""
+  },
+  {
+  "Language": "French",
+  "Code": "fr",
+  "": ""
+  },
+  {
+  "Language": "Frisian",
+  "Code": "fy",
+  "": ""
+  },
+  {
+  "Language": "Galician",
+  "Code": "gl",
+  "": ""
+  },
+  {
+  "Language": "Georgian",
+  "Code": "ka",
+  "": ""
+  },
+  {
+  "Language": "German",
+  "Code": "de",
+  "": ""
+  },
+  {
+  "Language": "Greek",
+  "Code": "el",
+  "": ""
+  },
+  {
+  "Language": "Gujarati",
+  "Code": "gu",
+  "": ""
+  },
+  {
+  "Language": "Haitian Creole",
+  "Code": "ht",
+  "": ""
+  },
+  {
+  "Language": "Hausa",
+  "Code": "ha",
+  "": ""
+  },
+  {
+  "Language": "Hawaiian",
+  "Code": "haw (ISO-639-2)",
+  "": ""
+  },
+  {
+  "Language": "Hebrew",
+  "Code": "he**",
+  "": ""
+  },
+  {
+  "Language": "Hindi",
+  "Code": "hi",
+  "": ""
+  },
+  {
+  "Language": "Hmong",
+  "Code": "hmn (ISO-639-2)",
+  "": ""
+  },
+  {
+  "Language": "Hungarian",
+  "Code": "hu",
+  "": ""
+  },
+  {
+  "Language": "Icelandic",
+  "Code": "is",
+  "": ""
+  },
+  {
+  "Language": "Igbo",
+  "Code": "ig",
+  "": ""
+  },
+  {
+  "Language": "Indonesian",
+  "Code": "id",
+  "": ""
+  },
+  {
+  "Language": "Irish",
+  "Code": "ga",
+  "": ""
+  },
+  {
+  "Language": "Italian",
+  "Code": "it",
+  "": ""
+  },
+  {
+  "Language": "Japanese",
+  "Code": "ja",
+  "": ""
+  },
+  {
+  "Language": "Javanese",
+  "Code": "jw",
+  "": ""
+  },
+  {
+  "Language": "Kannada",
+  "Code": "kn",
+  "": ""
+  },
+  {
+  "Language": "Kazakh",
+  "Code": "kk",
+  "": ""
+  },
+  {
+  "Language": "Khmer",
+  "Code": "km",
+  "": ""
+  },
+  {
+  "Language": "Korean",
+  "Code": "ko",
+  "": ""
+  },
+  {
+  "Language": "Kurdish",
+  "Code": "ku",
+  "": ""
+  },
+  {
+  "Language": "Kyrgyz",
+  "Code": "ky",
+  "": ""
+  },
+  {
+  "Language": "Lao",
+  "Code": "lo",
+  "": ""
+  },
+  {
+  "Language": "Latin",
+  "Code": "la",
+  "": ""
+  },
+  {
+  "Language": "Latvian",
+  "Code": "lv",
+  "": ""
+  },
+  {
+  "Language": "Lithuanian",
+  "Code": "lt",
+  "": ""
+  },
+  {
+  "Language": "Luxembourgish",
+  "Code": "lb",
+  "": ""
+  },
+  {
+  "Language": "Macedonian",
+  "Code": "mk",
+  "": ""
+  },
+  {
+  "Language": "Malagasy",
+  "Code": "mg",
+  "": ""
+  },
+  {
+  "Language": "Malay",
+  "Code": "ms",
+  "": ""
+  },
+  {
+  "Language": "Malayalam",
+  "Code": "ml",
+  "": ""
+  },
+  {
+  "Language": "Maltese",
+  "Code": "mt",
+  "": ""
+  },
+  {
+  "Language": "Maori",
+  "Code": "mi",
+  "": ""
+  },
+  {
+  "Language": "Marathi",
+  "Code": "mr",
+  "": ""
+  },
+  {
+  "Language": "Mongolian",
+  "Code": "mn",
+  "": ""
+  },
+  {
+  "Language": "Myanmar (Burmese)",
+  "Code": "my",
+  "": ""
+  },
+  {
+  "Language": "Nepali",
+  "Code": "ne",
+  "": ""
+  },
+  {
+  "Language": "Norwegian",
+  "Code": "no",
+  "": ""
+  },
+  {
+  "Language": "Nyanja (Chichewa)",
+  "Code": "ny",
+  "": ""
+  },
+  {
+  "Language": "Pashto",
+  "Code": "ps",
+  "": ""
+  },
+  {
+  "Language": "Persian",
+  "Code": "fa",
+  "": ""
+  },
+  {
+  "Language": "Polish",
+  "Code": "pl",
+  "": ""
+  },
+  {
+  "Language": "Portuguese (Portugal, Brazil)",
+  "Code": "pt",
+  "": ""
+  },
+  {
+  "Language": "Punjabi",
+  "Code": "pa",
+  "": ""
+  },
+  {
+  "Language": "Romanian",
+  "Code": "ro",
+  "": ""
+  },
+  {
+  "Language": "Russian",
+  "Code": "ru",
+  "": ""
+  },
+  {
+  "Language": "Samoan",
+  "Code": "sm",
+  "": ""
+  },
+  {
+  "Language": "Scots Gaelic",
+  "Code": "gd",
+  "": ""
+  },
+  {
+  "Language": "Serbian",
+  "Code": "sr",
+  "": ""
+  },
+  {
+  "Language": "Sesotho",
+  "Code": "st",
+  "": ""
+  },
+  {
+  "Language": "Shona",
+  "Code": "sn",
+  "": ""
+  },
+  {
+  "Language": "Sindhi",
+  "Code": "sd",
+  "": ""
+  },
+  {
+  "Language": "Sinhala (Sinhalese)",
+  "Code": "si",
+  "": ""
+  },
+  {
+  "Language": "Slovak",
+  "Code": "sk",
+  "": ""
+  },
+  {
+  "Language": "Slovenian",
+  "Code": "sl",
+  "": ""
+  },
+  {
+  "Language": "Somali",
+  "Code": "so",
+  "": ""
+  },
+  {
+  "Language": "Spanish",
+  "Code": "es",
+  "": ""
+  },
+  {
+  "Language": "Sundanese",
+  "Code": "su",
+  "": ""
+  },
+  {
+  "Language": "Swahili",
+  "Code": "sw",
+  "": ""
+  },
+  {
+  "Language": "Swedish",
+  "Code": "sv",
+  "": ""
+  },
+  {
+  "Language": "Tagalog (Filipino)",
+  "Code": "tl",
+  "": ""
+  },
+  {
+  "Language": "Tajik",
+  "Code": "tg",
+  "": ""
+  },
+  {
+  "Language": "Tamil",
+  "Code": "ta",
+  "": ""
+  },
+  {
+  "Language": "Telugu",
+  "Code": "te",
+  "": ""
+  },
+  {
+  "Language": "Thai",
+  "Code": "th",
+  "": ""
+  },
+  {
+  "Language": "Turkish",
+  "Code": "tr",
+  "": ""
+  },
+  {
+  "Language": "Ukrainian",
+  "Code": "uk",
+  "": ""
+  },
+  {
+  "Language": "Urdu",
+  "Code": "ur",
+  "": ""
+  },
+  {
+  "Language": "Uzbek",
+  "Code": "uz",
+  "": ""
+  },
+  {
+  "Language": "Vietnamese",
+  "Code": "vi",
+  "": ""
+  },
+  {
+  "Language": "Welsh",
+  "Code": "cy",
+  "": ""
+  },
+  {
+  "Language": "Xhosa",
+  "Code": "xh",
+  "": ""
+  },
+  {
+  "Language": "Yiddish",
+  "Code": "yi",
+  "": ""
+  },
+  {
+  "Language": "Yoruba",
+  "Code": "yo",
+  "": ""
+  },
+  {
+  "Language": "Zulu",
+  "Code": "zu",
+  "": ""
+  }
+  ]
+}
